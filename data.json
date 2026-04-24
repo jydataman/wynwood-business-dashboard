@@ -82,50 +82,178 @@
     }
   ],
   "newOpenings2026": [
-    {
+    
+      {
       "date": "2025-11-01",
       "name": "Design Lab 22",
       "type": "Retail/Customize Clothes",
-      "address": "2729 NW 3rd Ave",
+      "address": "2729 NW 3rd Ave, Miami, FL 33127",
       "contact": "Brenna Wagnon",
-      "description": "Specializing in custom merch and bold tactile design."
+      "email": "bren@designlab22.com",
+      "description": "Specializing in custom merch and unique adornment. Patches, pins, embroidery, and more."
     },
     {
       "date": "2025-12-01",
       "name": "Miax Global",
       "type": "Global Exchange/Trading Floor",
-      "address": "545 NW 26th St",
-      "description": "Electronic exchanges and physical trading floor."
+      "address": "545 NW 26th St, Miami, FL 33131",
+      "contact": "Brain Feeney",
+      "email": "bfeeney@MIAXGlobal.com",
+      "description": "Global exchange group providing access to U.S. and international capital markets."
     },
     {
       "date": "2026-01-01",
       "name": "Cha Cha Cha",
       "type": "Restaurant",
-      "address": "2637 N Miami Ave",
-      "description": "Mexican snack bar born in Mexico City."
+      "address": "2637 N Miami Ave, Miami, FL 33127",
+      "contact": "Andres Patino",
+      "email": "apatino@creaticmiami.com",
+      "description": "Mexican snack bar born in Mexico City celebrating barrio culture with food, cocktails, mezcal and tequila."
+    },
+    {
+      "date": "2026-01-01",
+      "name": "Jajaja la Mexicana",
+      "type": "Restaurant",
+      "address": "2775 NW 3rd Ave, Miami, FL 33127",
+      "contact": "Fee Bakhtiar",
+      "email": "fee@jajajagroup.com",
+      "description": "Plant-based Mexican food where south-of-the-border flavor meets NYC flair."
+    },
+    {
+      "date": "2026-01-01",
+      "name": "Picoteo",
+      "type": "Restaurant",
+      "address": "137 NW 26th St, Miami, FL 33127",
+      "contact": "Maximiliano Nogalo",
+      "email": "maxi@moycousa.com",
+      "description": "Tapas-focused Mediterranean restaurant emphasizing bold flavors and sharing plates."
+    },
+    {
+      "date": "2026-01-01",
+      "name": "Kitchen + Kocktails",
+      "type": "Restaurant/Bar",
+      "address": "2838 NW 2nd Ave Bldg 2, Miami, FL 33127",
+      "description": "Southern comfort food with A la Carte menu and weekend brunch."
     },
     {
       "date": "2026-01-16",
-      "name": "Francesco Martucci",
+      "name": "Wayan",
+      "type": "Restaurant",
+      "address": "Wynwood, Miami, FL",
+      "description": "New restaurant opening in Wynwood."
+    },
+    {
+      "date": "2026-01-01",
+      "name": "A21",
+      "type": "Marketing and Events Agency",
+      "address": "Wynwood, Miami, FL",
+      "description": "Marketing and events agency opening in Wynwood."
+    },
+    {
+      "date": "2026-01-16",
+      "name": "Nouveau",
+      "type": "Restaurant/Nightlife",
+      "address": "108 NW 25th St",
+      "email": "MiamiWynwood@NouveauMiami.com",
+      "description": "Luxury day dining and nightlife destination blending refined dining with high-energy evening experience."
+    },
+    {
+      "date": "2026-01-16",
+      "name": "Rita & Cadenza",
+      "type": "Pizzeria/Bar",
+      "address": "97 NW 25th St #103",
+      "contact": "Manny",
+      "email": "info@ritacadenza.com",
+      "description": "A vinyl-focused bar and pizzeria built around the sacred exchange between sound and soul."
+    },
+    {
+      "date": "2026-01-16",
+      "name": "Francesco Martucci Wynwood",
       "type": "Pizzeria/Bar",
       "address": "10 NE 27th St",
+      "email": "info@martuccimiami.com",
       "isAnchor": true,
-      "description": "World's best pizzeria's first U.S. location."
+      "description": "World's best pizzeria's first U.S. location, developed with Liberty Entertainment Group."
+    },
+    {
+      "date": "2026-01-21",
+      "name": "Topologie",
+      "type": "Retail",
+      "address": "2369 NW 2nd Avenue",
+      "contact": "Tom Pavic",
+      "email": "tom.pavic@topologie.com",
+      "description": "French/Japanese retail brand offering modular carry accessories with over 1,000 product combinations."
+    },
+    {
+      "date": "2026-02-10",
+      "name": "Boûlan",
+      "type": "Bakery",
+      "address": "87 NW 24th St",
+      "contact": "Rodrigo Calabrese",
+      "email": "rodrigo@saucemiami.com",
+      "description": "Artisan bakery rooted in a four-generation family baking tradition brought from Europe."
+    },
+    {
+      "date": "2026-02-01",
+      "name": "Cotidiano",
+      "type": "Mexican Bistro",
+      "address": "2143 NW 1st Ave, Miami, FL 33127",
+      "contact": "Gaston",
+      "email": "wynwood@cotidiano.mx",
+      "description": "Mexican bistro with 6 previous locations focused on quality ingredients and intentional cooking."
+    },
+    {
+      "date": "2026-02-10",
+      "name": "No Regrets Tattoo",
+      "type": "Tattoo Parlor",
+      "address": "120 NW 25th St Unit 202, Miami, FL 33127",
+      "contact": "Astrid",
+      "email": "astrid@noregrets.tattoo",
+      "description": "World-class tattoo artistry built on nearly two decades of excellence in design and craft."
+    },
+    {
+      "date": "2026-02-19",
+      "name": "Voodoo Doughnut",
+      "type": "Bakery",
+      "address": "2431 NW 2nd Ave, Miami, FL 33127",
+      "isAnchor": true,
+      "description": "Iconic national doughnut brand opening their 26th shop in Wynwood."
     },
     {
       "date": "2026-02-21",
       "name": "West Elm",
       "type": "Furniture & Decor",
-      "address": "286 NW 29th St",
+      "address": "286 NW 29th St, Miami, FL 33127",
+      "contact": "Ann Karaboyas",
+      "email": "AKaraboyas@WSGC.com",
       "isAnchor": true,
-      "description": "Sustainable modern furniture and decor."
+      "description": "Williams-Sonoma brand specializing in modern, sustainable furniture, decor, and bedding."
+    },
+    {
+      "date": "2026-02-21",
+      "name": "Museum of Graffiti Artist Studios",
+      "type": "Working Artist Studios",
+      "address": "299 NW 25th St, Miami, FL 33127",
+      "description": "Working artist studios open to the public daily, adjacent to the Museum of Graffiti."
+    },
+    {
+      "date": "2026-02-26",
+      "name": "Throw Social",
+      "type": "Restaurant/Bar",
+      "address": "2335 N Miami Ave, Miami, FL 33127",
+      "contact": "Ana Nelson",
+      "email": "ana@thegingerbrands.com",
+      "isAnchor": true,
+      "description": "34,000 sq ft indoor/outdoor restaurant and bar with live bands, DJs, dining cabanas, and games."
     },
     {
       "date": "2026-03-01",
       "name": "Paris Baguette",
       "type": "Bakery/Cafe",
-      "address": "The Strata",
-      "description": "Global bakery and cafe chain."
+      "address": "The Strata, Wynwood",
+      "email": "paolicesar@hotmail.com",
+      "description": "Global bakery and cafe chain expanding into Wynwood."
     }
+   
   ]
 }
